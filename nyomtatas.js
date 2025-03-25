@@ -10,3 +10,5 @@ function kalkulal(){
     document.getElementById('valasz').style.visibility = "visible";
 }
 
+
+
